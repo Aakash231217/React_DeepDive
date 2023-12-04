@@ -1,11 +1,17 @@
+//HMR- Hot Module Reload - it means parcel will keep track of everything changes
+// File Watchers algorithm - written in C++
+//
+import React from "react";
+import ReactDOM from "react-dom/client";
 const heading = React.createElement(
     "h1",
     {
         id:"title",
     },
-    "heading1"
+    "heading1 From parcel"
     //it is equal to <div id="title">heading</div>
 );
+
 
 const heading2 = React.createElement(
     "h2",
@@ -22,7 +28,7 @@ const container= React.createElement(
     {
         id:"container",
     },
-    [heading1, heading2]
+    [heading, heading2]
 );
 const root= ReactDOM.createRoot(document.getElementById("root"))
 
