@@ -18,25 +18,11 @@ const heading = React.createElement(
     //it is equal to <div id="title">heading</div>
 );
 
-
-const heading2 = React.createElement(
-    "h2",
-    {
-        id:"title",
-
-    },
-    "heading2"
-)
-
-
-const container= React.createElement(
-    "div",
-    {
-        id:"container",
-    },
-    [heading, heading2]
+//JSX
+const heading1= (
+<h1 id="title" key="h2">Namaste React</h1>
 );
-const root= ReactDOM.createRoot(document.getElementById("root"))
 
-//async defer
-root.render(container);
+const root=ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(heading1);
