@@ -9,20 +9,24 @@
 //zero config bundler
 import React from "react";
 import ReactDOM from "react-dom/client";
-const heading = React.createElement(
-    "h1",
-    {
-        id:"title",
-    },
-    "heading1 From parcel"
-    //it is equal to <div id="title">heading</div>
-);
 
 //JSX
-const heading1= (
-<h1 id="title" key="h2">Namaste React</h1>
-);
+const Title =()=>(
+    <h1 id="title" key="h2">
+        Namaste React !
+    </h1>
+)
+
+const Heading1= ()=>{
+   return (
+   <div>
+    <Title/>
+    <h1>Namaste React Functional Component</h1>
+   <h2>This is H2 tag</h2>
+   </div>
+   );
+};
 
 const root=ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(heading1);
+root.render(<Heading1 />);

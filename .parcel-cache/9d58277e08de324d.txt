@@ -31,7 +31,7 @@
 101C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs133469510651631492 0
 77C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\core\postinstall.js133469510602714434 0
 84C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\caniuse-lite\data\regions\NI.js133469510736427026 0
-46C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\App.js133473152010758955 0
+46C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\App.js133473798814474446 0
 69C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\posthtml\license133469510586716409 0
 97C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib133469510697271078 1
 50C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\.gitignore133461986602213550 0
@@ -40,7 +40,7 @@
 61C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\escalade133469510600493393 1
 120C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133469510688247517 0
 73C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\core\binding.js133469510599388853 0
-44C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist133473152072395674 1
+44C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist133473798883503479 1
 110C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@babel\helper-compilation-targets\node_modules\semver\bin133469510588336591 1
 92C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\caniuse-lite\data\features\autofocus.js133469510644580893 0
 105C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133469510627503298 0
@@ -48,7 +48,7 @@
 85C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\css-what\lib\commonjs\types.d.ts133469510622338593 0
 87C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\caniuse-lite\data\features\webp.js133469510748608298 0
 60C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\is-json133469510602097594 1
-50C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\index.html133473142866449419 0
+50C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\index.html133473787166294984 0
 75C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\picomatch\CHANGELOG.md133469510603000985 0
 99C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\caniuse-lite\data\features\array-find-index.js133469510628874619 0
 90C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\core\src\SymbolPropagation.js133469510707499565 0
@@ -433,7 +433,7 @@
 76C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\core\src\public133469510707945897 1
 82C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\ordered-binary\dist\index.cjs133469510596562284 0
 75C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\is-arrayish\.npmignore133469510584681987 0
-55C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.html133473152071746852 0
+55C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.html133473787171051909 0
 63C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\micromatch133469510589855647 1
 87C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\caniuse-lite\data\features\heif.js133469510719018937 0
 82C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\msgpackr-extract\package.json133469510601781727 0
@@ -2768,7 +2768,7 @@
 127C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133469510685594126 0
 87C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\cosmiconfig\dist\ExplorerSync.d.ts133469510625558925 0
 91C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133469510611041359 0
-67C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9e4c6fd2.css.map133473152066431485 0
+67C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9e4c6fd2.css.map133473798877988416 0
 82C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\cosmiconfig\dist\loaders.d.ts133469510626607590 0
 105C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_assert_this_initialized\package.json133469510702061921 0
 86C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\cosmiconfig\dist\loaders.d.ts.map133469510614937374 0
@@ -3693,7 +3693,7 @@
 92C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_iterable_to_array_limit133469510709310668 1
 98C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose133469510709255299 1
 84C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_new_arrow_check133469510709511284 1
-62C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.7826abd7.js133473152071756903 0
+62C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.7826abd7.js133473798883052306 0
 88C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_non_iterable_spread133469510709701706 1
 85C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\core\test\Parcel.test.js133469510696496885 0
 88C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@swc\helpers\_\_object_spread_props133469510709972353 1
@@ -4193,7 +4193,7 @@
 88C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\utils\test\throttle.test.js133469510670675235 0
 129C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Selector.js133469510682041439 0
 87C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\utils\test\urlJoin.test.js133469510674025146 0
-63C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9e4c6fd2.css133473152066289568 0
+63C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9e4c6fd2.css133473798877843248 0
 84C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\utils\test\input\config133469510687987638 1
 87C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\utils\test\input\sourcemap133469510687753093 1
 92C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\@parcel\utils\test\input\config\.testrc133469510610232114 0
@@ -5761,6 +5761,6 @@
 68C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\.bin\semver.cmd133469512013731293 0
 68C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\.bin\semver.ps1133469512013731293 0
 84C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\node_modules\.bin\update-browserslist-db.cmd133469512013731293 0
-66C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.7826abd7.js.map133473152072218956 0
+66C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.7826abd7.js.map133473798883448482 0
 63C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9c8ce86a.css133469670951183444 0
 67C:\Users\Mr.AK\Desktop\ReactJS_Pracrise\dist\index.9c8ce86a.css.map133469670951476560 0

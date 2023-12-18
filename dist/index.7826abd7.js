@@ -2957,20 +2957,55 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-    id: "title"
-}, "heading1 From parcel");
 //JSX
-const heading1 = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-    id: "title",
-    children: "Namaste React"
-}, "h2", false, {
-    fileName: "App.js",
-    lineNumber: 19,
-    columnNumber: 18
-}, undefined);
+const Title = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+        id: "title",
+        children: "Namaste React !"
+    }, "h2", false, {
+        fileName: "App.js",
+        lineNumber: 14,
+        columnNumber: 21
+    }, undefined);
+_c = Title;
+const Heading1 = ()=>{
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Title, {}, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 19,
+                columnNumber: 5
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                children: "Namaste React Functional Component"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 20,
+                columnNumber: 5
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                children: "This is H2 tag"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 21,
+                columnNumber: 4
+            }, undefined)
+        ]
+    }, void 0, true, {
+        fileName: "App.js",
+        lineNumber: 18,
+        columnNumber: 10
+    }, undefined);
+};
+_c1 = Heading1;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(heading1);
+root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Heading1, {}, void 0, false, {
+    fileName: "App.js",
+    lineNumber: 25,
+    columnNumber: 13
+}, undefined));
+var _c, _c1;
+$RefreshReg$(_c, "Title");
+$RefreshReg$(_c1, "Heading1");
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {
